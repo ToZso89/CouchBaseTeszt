@@ -1,0 +1,10 @@
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\bin\Debug\netcoreapp1.1\CouchBaseTest.deps.json
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\bin\Debug\netcoreapp1.1\CouchBaseTest.runtimeconfig.json
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\bin\Debug\netcoreapp1.1\CouchBaseTest.runtimeconfig.dev.json
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\bin\Debug\netcoreapp1.1\CouchBaseTest.dll
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\bin\Debug\netcoreapp1.1\CouchBaseTest.pdb
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\obj\Debug\netcoreapp1.1\CouchBaseTest.csprojResolveAssemblyReference.cache
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\obj\Debug\netcoreapp1.1\CouchBaseTest.csproj.CoreCompileInputs.cache
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\obj\Debug\netcoreapp1.1\CouchBaseTest.AssemblyInfo.cs
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\obj\Debug\netcoreapp1.1\CouchBaseTest.dll
+C:\Users\ToZsoDevelop\source\repos\CouchBaseTest\CouchBaseTest\obj\Debug\netcoreapp1.1\CouchBaseTest.pdb
